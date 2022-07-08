@@ -1,0 +1,32 @@
+body {
+  background-color: #EAF6F6
+}
+
+hr {
+  border: dotted grey;
+  width: 3%;
+  border-width: 5px 0 0 0;
+}
+
+h1 {
+  color: #3F72AF;
+}
+
+h3 {
+  color: #3F72AF;
+}
+
+img:hover{
+
+}
+
+/*************************************Class Selectors***************************************/
+
+.picture{
+  border-radius: 100%;
+}
+
+/*************************************ID Selectors******************************************/
+#heading{
+  font-style: oblique;
+}
